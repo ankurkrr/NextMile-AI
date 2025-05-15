@@ -4,7 +4,6 @@ A full-stack project management app to create projects, manage tasks, and track 
 
 ## 🚀 Live Demo
 
-[NextMile AI Live Website](https://task-tracker-app-orcin.vercel.app/)
 
 ---
 
